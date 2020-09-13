@@ -52,19 +52,19 @@
 
 首先我們假設一個陣列[1,2,4,6,8,10]
 
-![](C:\Users\cate5\AppData\Roaming\marktext\images\2020-09-13-13-28-23-image.png)
+<img src="./asset/2020-09-13-13-28-23-image.png" title="" alt="">
 
 我們需要查詢**4**在哪裡
 
-![](C:\Users\cate5\AppData\Roaming\marktext\images\2020-09-13-13-32-39-image.png)
+<img src="./asset/2020-09-13-13-32-39-image.png" title="" alt="">
 
 如果使用二元搜尋
 
-<img src="file:///C:/Users/cate5/AppData/Roaming/marktext/images/2020-09-13-13-58-19-image.png" title="" alt="" width="522">
+<img src="./asset/2020-09-13-13-58-19-image.png" title="" alt="" width="522">
 
-![](C:\Users\cate5\AppData\Roaming\marktext\images\2020-09-13-13-58-34-image.png)
+<img src="./asset/2020-09-13-13-58-34-image.png" title="" alt="">
 
-<img src="file:///C:/Users/cate5/AppData/Roaming/marktext/images/2020-09-13-14-02-16-image.png" title="" alt="" width="480">
+<img src="./asset/2020-09-13-14-02-16-image.png" title="" alt="" width="480">
 
 以此類推，利用判斷中間值跟目標的大小來做到更快速的搜尋
 
